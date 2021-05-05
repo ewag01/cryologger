@@ -21,7 +21,7 @@ void configureRtc()
     tm.Second = 0;
     tm.Day = 1;
     tm.Month = 5;
-    tm.Year = 2021 - 1970;    // tmElements_t.Year is the offset from 1970
+    tm.Year = 2020 - 1970;    // tmElements_t.Year is the offset from 1970
     time_t t = makeTime(tm);  // change the tm structure into time_t (seconds since epoch)
     myRTC.set(t);
   */

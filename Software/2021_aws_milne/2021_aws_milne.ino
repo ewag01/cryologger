@@ -88,9 +88,9 @@ Statistic veStats1;             // Anemometer east-west wind vector component (u
 // ------------------------------------------------------------------------------------------------
 // User defined global variable declarations
 // ------------------------------------------------------------------------------------------------
-unsigned int          sampleInterval        = 300;          // Sleep duration (in seconds) between data sample acquisitions. Default = 5 minutes (300 seconds)
+unsigned int          sampleInterval        = 30;          // Sleep duration (in seconds) between data sample acquisitions. Default = 5 minutes (300 seconds)
 unsigned int          averageInterval       = 12;           // Number of samples to be averaged for each RockBLOCK transmission. Default = 12 (Hourly)
-unsigned int          transmitInterval      = 1;            // Number of message to be included in a single transmission (340 byte limit). Default = 3 (Every 3 hours)
+unsigned int          transmitInterval      = 100;            // Number of message to be included in a single transmission (340 byte limit). Default = 3 (Every 3 hours)
 unsigned int          maxRetransmitCounter  = 10;           // Maximum failed data transmissions to reattempt in a single message (340 byte limit). Default: 10
 unsigned int          samplesPerFile        = 8640;         // Maximum samples stored in a file before new log file creation (Default: 30 days * 288 samples per day)
 

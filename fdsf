@@ -1,0 +1,281 @@
+[33mcommit e345980660cbdfdee9de6b29f16ceb7730b5d3f6[m[33m ([m[1;36mHEAD -> [m[1;32mewag[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Mon Apr 19 13:04:46 2021 -0400
+
+    Begin adding GPS functionality
+
+[33mcommit 2a5e3ee3295d72458d3d16d75489f846fc40e622[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Mon Apr 19 12:52:58 2021 -0400
+
+    Add new project for 2021 deployments
+
+[33mcommit 3ec6375626b3e8cf7fc47c2542c6563729893fb0[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Tue Dec 22 13:26:30 2020 -0500
+
+    Update README.md
+
+[33mcommit bb5913b609cd8f125fa64454a93a5ab434a0c7d6[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Tue Dec 22 13:25:42 2020 -0500
+
+    Update README.md
+
+[33mcommit 8ca8cce43527fd45a2911ff51ba0b67f84f44380[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Tue Dec 22 10:26:45 2020 -0500
+
+    Update BOM.md
+
+[33mcommit 4d039ff5151eea4388da05fc190b9b72e94a8d92[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Mon Dec 21 20:58:52 2020 -0500
+
+    Create BOM.md
+
+[33mcommit 0641aece958728f2a14c9b866fda345e1af6eddc[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Thu Dec 10 21:32:43 2020 -0500
+
+    Standardize folder names
+
+[33mcommit 0f7d8e6df97d52c47b590aa543160cb032fe2813[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Dec 9 20:45:13 2020 -0500
+
+    Fix bug in battery voltage calculation
+
+[33mcommit c9cc2267c5b522364edfc5a09ed878b3d199f4ab[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 24 18:59:53 2020 -0400
+
+    Update Installation.md
+
+[33mcommit 70d5e5dd7ffde317bfec139dcde441ebb7792044[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 24 18:58:07 2020 -0400
+
+    Update Installation.md
+
+[33mcommit 39d2d583d39038c0dbabe12dbf25fab53a3bd5f7[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 24 18:56:01 2020 -0400
+
+    Create preferences.png
+
+[33mcommit 06ba50737ee81f5f7cafad2df0258be9c2a2fe0b[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 24 18:55:57 2020 -0400
+
+    Create ide.png
+
+[33mcommit fefd2c13fd0c5de299ff61be8200a47702bf5c80[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 24 18:55:00 2020 -0400
+
+    Update Installation.md
+
+[33mcommit e0cc039836b5de348514f34813b0f529f320f498[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 24 18:54:07 2020 -0400
+
+    Update Installation.md
+
+[33mcommit 7822f5073090000ffd76f83c018dd1c7ac1283b0[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Thu Jun 18 11:10:01 2020 -0400
+
+    Update README.md
+
+[33mcommit a062d7963394e234975c703527cc90acd8d48932[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Thu Jun 18 11:07:41 2020 -0400
+
+    Update README.md
+
+[33mcommit 5d9baf8982920054eff65f94a92fb5f1103ead60[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Thu Jun 18 11:04:37 2020 -0400
+
+    Update README.md
+
+[33mcommit 21b8c7bfdfe8f88746c091a3e536f9be6f91cc11[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Thu Jun 18 11:00:05 2020 -0400
+
+    Update README.md
+
+[33mcommit 4437a321c15de46441cc9d5a5030d78f248df5d0[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Thu Jun 18 10:59:19 2020 -0400
+
+    Update README.md
+
+[33mcommit c6ff390208b67069aa8daf89472e3a75430c2296[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Thu Jun 18 10:59:01 2020 -0400
+
+    Create DSC_0440.JPG
+
+[33mcommit e2e0dd3832ae96a138303e69d07c2e6a71c5690d[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Thu Jun 18 10:51:06 2020 -0400
+
+    Update Installation.md
+
+[33mcommit 05dd8d0be87c617cfa155953f09ef9c3e440c670[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Thu Jun 18 10:18:02 2020 -0400
+
+    Create Installation.md
+
+[33mcommit dc14261ce4994ee609e70c5864d5f5dc0ad4db0a[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 17 12:52:34 2020 -0400
+
+    Delete IMG_1044.JPG
+
+[33mcommit cd32d806b0aeb3c1eb8f5447e63eab6d5ce1dbf5[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 17 12:51:42 2020 -0400
+
+    Create IMG_1044.JPG
+
+[33mcommit 48bcf274d601007ec34a0b25c833f83df706608a[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 17 10:58:00 2020 -0400
+
+    Update README.md
+
+[33mcommit 9a978d935a83a6d8b33843520682f40d46b54a50[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 17 10:57:22 2020 -0400
+
+    Update README.md
+
+[33mcommit bf845fdb5de177a4b3d3cc9e190cbd1a6528fe4f[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 17 10:55:52 2020 -0400
+
+    Update README.md
+
+[33mcommit 39609866fef58ff2e4cc64d941b3767417ef93c9[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 17 10:54:24 2020 -0400
+
+    Update README.md
+
+[33mcommit 11e3b3af96a11c847c2c89023bd4d3e92aeffef4[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 17 10:44:08 2020 -0400
+
+    Update README.md
+
+[33mcommit 52dd5c6685b335dfe4ceea38a3e2635aaff7617c[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 17 10:42:34 2020 -0400
+
+    Update README.md
+
+[33mcommit 6c2b0164683d9217589ac1a369f86e43b4013c9d[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 17 10:19:16 2020 -0400
+
+    Create DSC_1873.JPG
+
+[33mcommit b4d04370ee48c5f5dd1000dc2213305af1b88bcf[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Jun 17 10:05:42 2020 -0400
+
+    Update README.md
+
+[33mcommit f3652fa2f256e70b639923fcad89f5d83589cf07[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Tue Jun 16 18:02:40 2020 -0400
+
+    Update README.md
+
+[33mcommit da7398407a4eab1d6021bfd880e79cb88d40a2f1[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Tue Jun 16 18:00:58 2020 -0400
+
+    Create DSC_1877.JPG
+
+[33mcommit be4298e766504adbff3d2d34efd65c0e6c228d57[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Tue Jun 16 17:51:55 2020 -0400
+
+    Update README.md
+
+[33mcommit 172343ed6f72ce62bbbbb4e940c58d18e316cdd8[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Apr 15 15:28:02 2020 -0400
+
+    Update 2020_aws_arctic_bay.ino
+
+[33mcommit f170d99e9c24a5bf10a0c7ea6cbd43e19b4eb177[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Apr 15 15:23:37 2020 -0400
+
+    Rename Arduino/2020_aws_arctic_bay.ino to Arduino/2020_aws_arctic_bay/2020_aws_arctic_bay.ino
+
+[33mcommit aaed4328391597d2204c126b3186cbf90a9ba9ae[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Apr 15 15:23:26 2020 -0400
+
+    Rename Arduino/2020_aws_arctic_bay/2020_aws_arctic_bay.ino to Arduino/2020_aws_arctic_bay.ino
+
+[33mcommit dcde364a5b7af56c4eb668fc45a75e02c8a36fec[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Apr 15 15:22:29 2020 -0400
+
+    Create 2020_aws_arctic_bay
+
+[33mcommit 2edfb79d17cdcbed3a22eb3d2eedc620a84042a2[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Mar 18 15:09:54 2020 -0400
+
+    Create 2019_aws_nain.ino
+
+[33mcommit 02d58fc213ffc3718f7e24023d7ebcefa938fbbc[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Mar 18 14:48:56 2020 -0400
+
+    Rename Arduino/2019_aws_milne_glacier.ino to Arduino/2019_aws_milne_glacier/2019_aws_milne_glacier.ino
+
+[33mcommit 6237c0c448c464518486078dc9fb45a4290b12b5[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Mar 18 14:48:33 2020 -0400
+
+    Rename Arduino/2019_aws_arctic_bay.ino to Arduino/2019_aws_arctic_bay/2019_aws_arctic_bay.ino
+
+[33mcommit 3ebeb0f2e13c32bcd4b997c0eddf466c56ddbd4e[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Mar 18 13:58:08 2020 -0400
+
+    Update README.md
+
+[33mcommit aa05fab99fbafc2c6c49acb0b3f4269225a56063[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Mar 18 13:57:46 2020 -0400
+
+    Update README.md
+
+[33mcommit 0c17203bc6da1aaeb4f3869655a492c22e5d29a7[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Mar 18 13:55:22 2020 -0400
+
+    Create 2019_aws_milne_glacier.ino
+
+[33mcommit 756dec25c3799e51cb1b8ceb1e464592ec1a89ab[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Mar 18 13:54:51 2020 -0400
+
+    Create 2019_aws_arctic_bay.ino
+
+[33mcommit db4936e3f7c7a1b9068cb085ce8865eb8572c6f3[m
+Author: Adam <adam.garbo@gmail.com>
+Date:   Wed Mar 18 13:48:13 2020 -0400
+
+    Initial commit
